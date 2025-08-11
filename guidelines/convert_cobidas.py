@@ -74,8 +74,8 @@ output_file = Path(__file__).parent / 'cobidas.yaml'
 with open(output_file, 'w') as f:
     f.write('guidelines:\n')
     for guideline in output_dict['guidelines']:
-        f.write(f"  - index: {guideline['index']}\n")
-        f.write(f"    info: {guideline['info']}\n")
-        f.write(f"    text: {guideline['text']}\n")
+        f.write(f"  {guideline['index']}:\n")
+        f.write(f"      info: {guideline['info']}\n")
+        f.write(f"      text: {guideline['text']}\n")
 
 print(f"Converted COBIDAS guidelines to: {output_file}")

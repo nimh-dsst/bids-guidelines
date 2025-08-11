@@ -1,0 +1,1090 @@
+guidelines:
+  D01.01.01.00.00.01:
+      info: Table D.1. Experimental Design Reporting | Number of subjects (by group) | Subjects approached
+      text: "Number of subjects approached"
+  D01.01.02.00.00.01:
+      info: Table D.1. Experimental Design Reporting | Number of subjects (by group) | Subjects consented
+      text: "Number of subjects consented"
+  D01.01.03.00.00.01:
+      info: Table D.1. Experimental Design Reporting | Number of subjects (by group) | Subjects refused to participate
+      text: "Provide reasons"
+  D01.01.04.00.00.01:
+      info: Table D.1. Experimental Design Reporting | Number of subjects (by group) | Subjects excluded
+      text: "Subjects excluded after consenting but before data acquisition; provide reasons"
+  D01.01.05.00.00.01:
+      info: Table D.1. Experimental Design Reporting | Number of subjects (by group) | Subjects participated and analyzed
+      text: "Provide the number of subjects scanned, number excluded after acquisition, and the number included in the data analysis. If they differ, note the number of subjects in each particular analysis"
+  D01.02.01.00.00.01:
+      info: Table D.1. Experimental Design Reporting | Inclusion criteria and descriptive statistics (by group) | Age
+      text: "Mean, standard deviation and range"
+  D01.02.02.00.00.01:
+      info: Table D.1. Experimental Design Reporting | Inclusion criteria and descriptive statistics (by group) | Sex
+      text: "Absolute counts or relative frequencies"
+  D01.02.03.00.00.01:
+      info: Table D.1. Experimental Design Reporting | Inclusion criteria and descriptive statistics (by group) | Race & ethnicity
+      text: "Per guidelines of NIH or other relevant agency"
+  D01.02.04.00.00.01:
+      info: Table D.1. Experimental Design Reporting | Inclusion criteria and descriptive statistics (by group) | Education, SES
+      text: "Education is essential for studies comparing patient and control groups; complete SES reporting less important for single-group studies, but still useful. Specify measurement instrument used; may be parental SES and education if study has minors"
+  D01.02.05.00.00.01:
+      info: Table D.1. Experimental Design Reporting | Inclusion criteria and descriptive statistics (by group) | IQ
+      text: "Specify measurement instrument used"
+  D01.02.06.00.00.01:
+      info: Table D.1. Experimental Design Reporting | Inclusion criteria and descriptive statistics (by group) | Handedness
+      text: "Absolute or relative frequencies; basis of handedness-attribution (self report, EHI, other tests). (Important for fMRI, may be less important for structural studies)"
+  D01.02.07.00.00.01:
+      info: Table D.1. Experimental Design Reporting | Inclusion criteria and descriptive statistics (by group) | Exclusion criteria
+      text: "Describe any screening criteria, including those applied to \"normal\" sample such as MRI exclusion criteria"
+  D01.02.08.00.00.01:
+      info: Table D.1. Experimental Design Reporting | Inclusion criteria and descriptive statistics (by group) | Clinical criteria
+      text: "Detail the area of recruitment (in-vs. outpatient setting, community hospital vs. tertiary referral center etc.) as well as whether patients were currently in treatment"
+  D01.02.09.00.00.01:
+      info: Table D.1. Experimental Design Reporting | Inclusion criteria and descriptive statistics (by group) | Clinical instruments
+      text: "Describe the instruments used to obtain the diagnosis and provide tests of intra-or inter-rater reliability. Clarify whether a \"clinical diagnosis\" or \"inventory diagnosis\" was used (if applicable). State the diagnostic system (ICD, DSM etc.) that was used"
+  D01.02.10.00.00.01:
+      info: Table D.1. Experimental Design Reporting | Inclusion criteria and descriptive statistics (by group) | Matching strategy
+      text: "Describe how groups were matched"
+  D01.02.11.00.00.01:
+      info: Table D.1. Experimental Design Reporting | Inclusion criteria and descriptive statistics (by group) | Population & recruitment strategy
+      text: "Population from which subjects were drawn, and how and where recruitment took place, e.g., schools, clinics, etc. If possible, note if subjects are research-naive or have participated in other studies before"
+  D01.02.12.00.00.01:
+      info: Table D.1. Experimental Design Reporting | Inclusion criteria and descriptive statistics (by group) | Subject scanning order
+      text: "With multiple groups, information on ordering and or balance over time; especially report relative to scanner changes/upgrades. (Ideally, use randomized or interleaved order to avoid bias due to scanner changes/upgrades)"
+  D01.02.13.00.00.01:
+      info: Table D.1. Experimental Design Reporting | Inclusion criteria and descriptive statistics (by group) | Neurocognitive measures
+      text: "All measures collected on subjects should be described and reported"
+  D01.03.01.00.00.01:
+      info: Table D.1. Experimental Design Reporting | Ethical considerations | Ethical approval
+      text: "Describe approval given, including the particular institutional review board, medical ethics committee or equivalent that granted the approval. When data is shared, describe the ethics/institutional approvals required from either the author (source) or recipient"
+  D01.03.02.00.00.01:
+      info: Table D.1. Experimental Design Reporting | Ethical considerations | Informed consent
+      text: "Record whether subjects provided informed consent or, if applicable, informed assent"
+  D01.04.01.00.00.01:
+      info: Table D.1. Experimental Design Reporting | Design specifications | Design type
+      text: "Task or resting state. Event-related or block design. (See body text for usage of 'block design' terminology)"
+  D01.04.02.00.00.01:
+      info: Table D.1. Experimental Design Reporting | Design specifications | Condition & stimuli
+      text: "Clearly describe each condition and the stimuli used. Be sure to completely describe baseline (e.g. blank white/black screen, presence of fixation cross, or any other text), especially for resting-state studies. When possible provide images or screen snapshots of the stimuli"
+  D01.04.03.00.00.01:
+      info: Table D.1. Experimental Design Reporting | Design specifications | Number of blocks, trials or experimental units
+      text: "Specify per session, and if differing by subject, summary statistics (mean, range and/or standard deviation) of such counts"
+  D01.04.04.00.00.01:
+      info: Table D.1. Experimental Design Reporting | Design specifications | Timing and duration
+      text: "Length of each trial or block (both, if trials are blocked), and interval between trials. Provide the timing structure of the events in the task, whether a random/jittered pattern or a regular arrangement; any jittering of block onsets"
+  D01.04.05.00.00.01:
+      info: Table D.1. Experimental Design Reporting | Design specifications | Length of the experiment
+      text: "Describe the total length of the scanning session, as well as the duration of each run. (Important to assess subject fatigue)"
+  D01.04.06.00.00.01:
+      info: Table D.1. Experimental Design Reporting | Design specifications | Design optimization
+      text: "Whether design was optimized for efficiency, and how"
+  D01.04.07.00.00.01:
+      info: Table D.1. Experimental Design Reporting | Design specifications | Presentation software
+      text: "Name software, version and operating system on which the stimulus presentation was run. When possible, provide code used to drive experiment"
+  D01.05.01.00.00.01:
+      info: Table D.1. Experimental Design Reporting | Task specification | Condition
+      text: "Enumerate the conditions and fully describe and reference each. Consider using a shorthand name, e.g. AUDSTIM, VISSTIM, to refer to each condition, to clarify the distinction between a specific modelled effect and a psychological construct. Naming should reflect the distinction between instruction periods and actual stimuli, and between single parameters and contrasts of parameters"
+  D01.05.02.00.00.01:
+      info: Table D.1. Experimental Design Reporting | Task specification | Instructions
+      text: "Specify the instructions given to subjects for each condition (ideally the exact text in supplement or appendix). For resting-state, be sure to indicate eyes-closed, eyes-open, any fixation. Describe if the subjects received any rewards during the task, and state if there was a familiarization / training inside or outside the scanner"
+  D01.05.03.00.00.01:
+      info: Table D.1. Experimental Design Reporting | Task specification | Stimuli
+      text: "Specifics of stimuli used in each run. For example, the unique number of stimuli used, and whether/how stimuli were repeated over trials or conditions"
+  D01.05.04.00.00.01:
+      info: Table D.1. Experimental Design Reporting | Task specification | Randomization
+      text: "Describe block or event ordering as deterministic, or report manner of randomization, in terms of order and timing. If pseudo-randomized, i.e. under constraints, describe how and the criteria used to constrain the orders/timings"
+  D01.05.05.00.00.01:
+      info: Table D.1. Experimental Design Reporting | Task specification | Stimulus presentation & response collection.
+      text: "Specify the presentation hardware (e.g. back projection, in-room display, goggles, etc.), and the response systems (e.g. button boxes, eye tracking, physiology)"
+  D01.05.05.00.00.02:
+      info: Table D.1. Experimental Design Reporting | Task specification | Stimulus presentation & response collection.
+      text: "Note how equipment was synched to the scanner (e.g. scanner TTL, or manual sync)"
+  D01.05.06.00.00.01:
+      info: Table D.1. Experimental Design Reporting | Task specification | Run order
+      text: "Order in which tasks runs are conducted in the scanner"
+  D01.06.01.00.00.01:
+      info: Table D.1. Experimental Design Reporting | Power analysis | Outcome
+      text: "The type of outcome used as the basis of power computations, e.g. signal in a pre-specified ROI, or whole image voxelwise (or cluster-wise, peak-wise, etc.)"
+  D01.06.02.00.00.01:
+      info: Table D.1. Experimental Design Reporting | Power analysis | Power parameters
+      text: "Effect size (or effect magnitude and standard deviation separately)"
+  D01.06.02.00.00.02:
+      info: Table D.1. Experimental Design Reporting | Power analysis | Power parameters
+      text: "Source of predicted effect size (previous literature with citation; pilot data with description, etc.)"
+  D01.06.02.00.00.03:
+      info: Table D.1. Experimental Design Reporting | Power analysis | Power parameters
+      text: "Significance level (e.g. uncorrected alpha 0.05 for an ROI, or FWE-corrected significance"
+  D01.06.02.00.00.04:
+      info: Table D.1. Experimental Design Reporting | Power analysis | Power parameters
+      text: "Target power (typically 80%)"
+  D01.06.02.00.00.05:
+      info: Table D.1. Experimental Design Reporting | Power analysis | Power parameters
+      text: "Any other parameters set (e.g. for spatial methods a brain volume and smoothness may be needed to be specified)"
+  D01.07.01.00.00.01:
+      info: Table D.1. Experimental Design Reporting | Behavioral performance | Variables recorded
+      text: "State number of type of variables recorded (e.g. correct button press, response time)"
+  D01.07.02.00.00.01:
+      info: Table D.1. Experimental Design Reporting | Behavioral performance | Summary statistics
+      text: "Summaries of behavior sufficient to establish that subjects were performing the task as expected. For example, correct response rates and/or response times, summarized over subjects (e.g. mean, range and/or standard deviation)"
+  D02.01.01.00.00.01:
+      info: Table D.2. Acquisition Reporting | Subject preparation | Mock scanning
+      text: "Use of an MRI simulator to acclimate subjects to scanner environment. Report type of mock scanner and protocol (i.e. duration, types of simulated scans, experiments)"
+  D02.01.02.00.00.01:
+      info: Table D.2. Acquisition Reporting | Subject preparation | Special accommodations
+      text: "For example, for pediatric scanning, presence of parent/guardian in the room"
+  D02.01.03.00.00.01:
+      info: Table D.2. Acquisition Reporting | Subject preparation | Experimenter personnel
+      text: "Whether a single or multiple experimenters interacted with the subjects"
+  D02.02.01.00.00.01:
+      info: Table D.2. Acquisition Reporting | MRI system description | Scanner
+      text: "Provide make, model & field strength in tesla (T)"
+  D02.02.02.00.00.01:
+      info: Table D.2. Acquisition Reporting | MRI system description | Coil
+      text: "Receive coil (e.g. \"a 12-channel phased array coil\", but more details for a custom coil) and (if nonstandard) transmit coil. Additional information on the gradient system, e.g. gradient strength (if non-standard for the make and model, or switchable)"
+  D02.02.03.00.00.01:
+      info: Table D.2. Acquisition Reporting | MRI system description | Significant hardware modifications
+      text: "For example, special gradient inserts/sets"
+  D02.02.04.00.00.01:
+      info: Table D.2. Acquisition Reporting | MRI system description | Software version
+      text: "Highly recommended when sharing vendor-specific protocols or exam cards, as version may be needed to correctly interpret that information"
+  D02.03.01.00.00.01:
+      info: Table D.2. Acquisition Reporting | MRI acquisition | Pulse sequence type
+      text: "For example, gradient echo, spin echo, etc. "
+  D02.03.02.00.00.01:
+      info: Table D.2. Acquisition Reporting | MRI acquisition | Imaging type
+      text: "For example, echo planar imaging (EPI), spiral, 3D"
+  D02.03.02.00.00.02:
+      info: Table D.2. Acquisition Reporting | MRI acquisition | Imaging type
+      text: "Number of shots (if multi-shot); partial Fourier scheme & reconstruction method (if used)"
+  D02.03.03.01.00.01:
+      info: Table D.2. Acquisition Reporting | MRI acquisition | Essential sequence & imaging parameters | All acquisitions
+      text: "Echo time (TE)"
+  D02.03.03.01.00.02:
+      info: Table D.2. Acquisition Reporting | MRI acquisition | Essential sequence & imaging parameters | All acquisitions
+      text: "Repetition time (TR)"
+  D02.03.03.01.00.03:
+      info: Table D.2. Acquisition Reporting | MRI acquisition | Essential sequence & imaging parameters | All acquisitions
+      text: "Flip angle (FA)"
+  D02.03.03.01.00.04:
+      info: Table D.2. Acquisition Reporting | MRI acquisition | Essential sequence & imaging parameters | All acquisitions
+      text: "Acquisition time (duration of acquisition)"
+  D02.03.03.01.01.01:
+      info: Table D.2. Acquisition Reporting | MRI acquisition | Essential sequence & imaging parameters | All acquisitions | Multi-shot acquisitions
+      text: "Time per volume"
+  D02.03.03.02.00.01:
+      info: Table D.2. Acquisition Reporting | MRI acquisition | Essential sequence & imaging parameters | Functional MRI
+      text: "Number of volumes"
+  D02.03.03.02.00.02:
+      info: Table D.2. Acquisition Reporting | MRI acquisition | Essential sequence & imaging parameters | Functional MRI
+      text: "Sparse sampling delay (delay in TR) if used"
+  D02.03.03.03.00.01:
+      info: Table D.2. Acquisition Reporting | MRI acquisition | Essential sequence & imaging parameters | Inversion recovery sequences
+      text: "Inversion time (TI)"
+  D02.03.03.04.00.01:
+      info: Table D.2. Acquisition Reporting | MRI acquisition | Essential sequence & imaging parameters | B0 field maps
+      text: "Echo time difference (dTE)"
+  D02.03.03.05.00.01:
+      info: Table D.2. Acquisition Reporting | MRI acquisition | Essential sequence & imaging parameters | Diffusion MRI
+      text: "Number of directions"
+  D02.03.03.05.00.02:
+      info: Table D.2. Acquisition Reporting | MRI acquisition | Essential sequence & imaging parameters | Diffusion MRI
+      text: "Direction optimization, if used and type"
+  D02.03.03.05.00.03:
+      info: Table D.2. Acquisition Reporting | MRI acquisition | Essential sequence & imaging parameters | Diffusion MRI
+      text: "B-values"
+  D02.03.03.05.00.04:
+      info: Table D.2. Acquisition Reporting | MRI acquisition | Essential sequence & imaging parameters | Diffusion MRI
+      text: "Number of b=0 images"
+  D02.03.03.05.00.05:
+      info: Table D.2. Acquisition Reporting | MRI acquisition | Essential sequence & imaging parameters | Diffusion MRI
+      text: "Number of averages (if any)"
+  D02.03.03.05.00.06:
+      info: Table D.2. Acquisition Reporting | MRI acquisition | Essential sequence & imaging parameters | Diffusion MRI
+      text: "Single shell, multi-shell (specify equal or unequal spacing)"
+  D02.03.03.05.00.07:
+      info: Table D.2. Acquisition Reporting | MRI acquisition | Essential sequence & imaging parameters | Diffusion MRI
+      text: "Single-or dual-spin-echo, gradient mode (serial or parallel)"
+  D02.03.03.05.00.08:
+      info: Table D.2. Acquisition Reporting | MRI acquisition | Essential sequence & imaging parameters | Diffusion MRI
+      text: "If cardiac gating used"
+  D02.03.03.06.00.01:
+      info: Table D.2. Acquisition Reporting | MRI acquisition | Essential sequence & imaging parameters | Imaging parameters
+      text: "Field of view"
+  D02.03.03.06.00.02:
+      info: Table D.2. Acquisition Reporting | MRI acquisition | Essential sequence & imaging parameters | Imaging parameters
+      text: "In-plane matrix size, slice thickness and interslice gap, for 2D acquisitions"
+  D02.03.03.06.00.03:
+      info: Table D.2. Acquisition Reporting | MRI acquisition | Essential sequence & imaging parameters | Imaging parameters
+      text: "3D matrix size, for 3D acquisitions"
+  D02.03.03.06.01.01:
+      info: Table D.2. Acquisition Reporting | MRI acquisition | Essential sequence & imaging parameters | Imaging parameters | Slice orientation
+      text: "Axial, sagittal, coronal or oblique"
+  D02.03.03.06.01.02:
+      info: Table D.2. Acquisition Reporting | MRI acquisition | Essential sequence & imaging parameters | Imaging parameters | Slice orientation
+      text: "Angulation: If acquisition not aligned with scanner axes, specify angulation to AC-PC line (see Slice position procedure)"
+  D02.03.04.00.00.01:
+      info: Table D.2. Acquisition Reporting | MRI acquisition | Phase encoding
+      text: "Specify phase encoding direction (e.g. as A/P, L/R, or S/I)"
+  D02.03.04.00.00.02:
+      info: Table D.2. Acquisition Reporting | MRI acquisition | Phase encoding
+      text: "For 3D, specify \"partition encode\" (aka slice) direction"
+  D02.03.04.00.00.03:
+      info: Table D.2. Acquisition Reporting | MRI acquisition | Phase encoding
+      text: "Phase encoding reversal: Mention if used (aka \"blip-up/blip-down\")"
+  D02.03.05.00.00.01:
+      info: Table D.2. Acquisition Reporting | MRI acquisition | Parallel imaging method & parameters
+      text: "Method, e.g. SENSE, GRAPPA or other parallel imaging method, and acceleration factor"
+  D02.03.05.00.00.02:
+      info: Table D.2. Acquisition Reporting | MRI acquisition | Parallel imaging method & parameters
+      text: "Matrix coil mode, and coil combining method (if non-standard)"
+  D02.03.06.00.00.01:
+      info: Table D.2. Acquisition Reporting | MRI acquisition | Multiband parameters
+      text: "Multiband factor and field-of-view shift (only if applicable)"
+  D02.03.07.00.00.01:
+      info: Table D.2. Acquisition Reporting | MRI acquisition | Readout parameters
+      text: "Receiver bandwidth, readout duration, echo spacing"
+  D02.03.08.00.00.01:
+      info: Table D.2. Acquisition Reporting | MRI acquisition | Fat suppression
+      text: "For anatomical scans, whether it was used or not"
+  D02.03.09.00.00.01:
+      info: Table D.2. Acquisition Reporting | MRI acquisition | Shimming
+      text: "Any specialized shimming procedures"
+  D02.03.10.00.00.01:
+      info: Table D.2. Acquisition Reporting | MRI acquisition | Slice order & timing
+      text: "For fMRI acquisitions, interleaved vs. sequential ordering and direction (ascending/descending), location of 1st slice; any specialized slice timing"
+  D02.03.11.00.00.01:
+      info: Table D.2. Acquisition Reporting | MRI acquisition | Slice position procedure
+      text: "For example, landmark guided vs. auto-alignment"
+  D02.03.12.00.00.01:
+      info: Table D.2. Acquisition Reporting | MRI acquisition | Brain coverage
+      text: "Report whether coverage was whole-brain, and whether cerebellum and brainstem were included. If not whole-brain, note the nature of the partial area of coverage. If axial and co-planar with AC-PC line, the volume coverage in terms of Z in mm"
+  D02.03.13.00.00.01:
+      info: Table D.2. Acquisition Reporting | MRI acquisition | Scanner-side preprocessing
+      text: "Reconstruction matrix size differing from acquisition matrix size"
+  D02.03.13.00.00.02:
+      info: Table D.2. Acquisition Reporting | MRI acquisition | Scanner-side preprocessing
+      text: "Prospective-motion correction (including details of any optical tracking, and how motion parameters are used)"
+  D02.03.13.00.00.03:
+      info: Table D.2. Acquisition Reporting | MRI acquisition | Scanner-side preprocessing
+      text: "Signal inhomogeneity correction"
+  D02.03.13.00.00.04:
+      info: Table D.2. Acquisition Reporting | MRI acquisition | Scanner-side preprocessing
+      text: "Distortion-correction"
+  D02.03.14.00.00.01:
+      info: Table D.2. Acquisition Reporting | MRI acquisition | Scan duration
+      text: "In seconds "
+  D02.03.15.00.00.01:
+      info: Table D.2. Acquisition Reporting | MRI acquisition | Other non-standard procedures
+      text: "Turning off the cold head(s) (e.g. during EEG/fMRI or spectroscopy measurements)"
+  D02.03.15.00.00.02:
+      info: Table D.2. Acquisition Reporting | MRI acquisition | Other non-standard procedures
+      text: "Reduce sound pressure by limiting the gradient slew rate"
+  D02.03.16.00.00.01:
+      info: Table D.2. Acquisition Reporting | MRI acquisition | T1 stabilization
+      text: "Number of initial \"dummy\" scans acquired and then discarded by the scanner"
+  D02.03.17.00.00.01:
+      info: Table D.2. Acquisition Reporting | MRI acquisition | Diffusion MRI gradient table
+      text: "Also referred to as the b-matrix (but not to be confused with the 3x3 matrix that describes diffusion weighting for a single diffusion weighted measurement)"
+  D02.03.18.01.01.01:
+      info: Table D.2. Acquisition Reporting | MRI acquisition | Perfusion | Arterial Spin Labelling MRI | All acquisitions
+      text: "Labelling method, e.g. continuous ASL (CASL), pseudo-continuous ASL (PCASL), Pulsed ALS (PASL), velocity selective ASL (VSASL)"
+  D02.03.18.01.01.02:
+      info: Table D.2. Acquisition Reporting | MRI acquisition | Perfusion | Arterial Spin Labelling MRI | All acquisitions
+      text: "Use of background suppression pulses and their timing"
+  D02.03.18.01.02.01:
+      info: Table D.2. Acquisition Reporting | MRI acquisition | Perfusion | Arterial Spin Labelling MRI | PCASL or CASL
+      text: "Label Duration"
+  D02.03.18.01.02.02:
+      info: Table D.2. Acquisition Reporting | MRI acquisition | Perfusion | Arterial Spin Labelling MRI | PCASL or CASL
+      text: "Post-labeling delay (PLD)"
+  D02.03.18.01.02.03:
+      info: Table D.2. Acquisition Reporting | MRI acquisition | Perfusion | Arterial Spin Labelling MRI | PCASL or CASL
+      text: "Location of the labelling plane"
+  D02.03.18.01.03.01:
+      info: Table D.2. Acquisition Reporting | MRI acquisition | Perfusion | Arterial Spin Labelling MRI | PCASL
+      text: "Average labelling gradient"
+  D02.03.18.01.03.02:
+      info: Table D.2. Acquisition Reporting | MRI acquisition | Perfusion | Arterial Spin Labelling MRI | PCASL
+      text: "Slice-s elective labeling gradient"
+  D02.03.18.01.03.03:
+      info: Table D.2. Acquisition Reporting | MRI acquisition | Perfusion | Arterial Spin Labelling MRI | PCASL
+      text: "Flip angle of B1 pulses"
+  D02.03.18.01.03.04:
+      info: Table D.2. Acquisition Reporting | MRI acquisition | Perfusion | Arterial Spin Labelling MRI | PCASL
+      text: "Assessment of inversion efficiency; QC used to ensure off-resonance artifacts not problematic, signal obtained over whole brain"
+  D02.03.18.01.04.01:
+      info: Table D.2. Acquisition Reporting | MRI acquisition | Perfusion | Arterial Spin Labelling MRI | CASL
+      text: "Use of a separate labelling coil"
+  D02.03.18.01.04.02:
+      info: Table D.2. Acquisition Reporting | MRI acquisition | Perfusion | Arterial Spin Labelling MRI | CASL
+      text: "Control scan/pulse used"
+  D02.03.18.01.04.03:
+      info: Table D.2. Acquisition Reporting | MRI acquisition | Perfusion | Arterial Spin Labelling MRI | CASL
+      text: "B1 amplitude"
+  D02.03.18.01.05.01:
+      info: Table D.2. Acquisition Reporting | MRI acquisition | Perfusion | Arterial Spin Labelling MRI | PASL
+      text: "TI"
+  D02.03.18.01.05.02:
+      info: Table D.2. Acquisition Reporting | MRI acquisition | Perfusion | Arterial Spin Labelling MRI | PASL
+      text: "Labelling slab thickness"
+  D02.03.18.01.05.03:
+      info: Table D.2. Acquisition Reporting | MRI acquisition | Perfusion | Arterial Spin Labelling MRI | PASL
+      text: "Use of QUIPSS pulses and their timing"
+  D02.03.18.01.06.01:
+      info: Table D.2. Acquisition Reporting | MRI acquisition | Perfusion | Arterial Spin Labelling MRI | VSASL
+      text: "TI"
+  D02.03.18.01.06.02:
+      info: Table D.2. Acquisition Reporting | MRI acquisition | Perfusion | Arterial Spin Labelling MRI | VSASL
+      text: "Choice of velocity selection cutoff (\"VENC\")"
+  D02.03.18.02.00.01:
+      info: Table D.2. Acquisition Reporting | MRI acquisition | Perfusion | Dynamic Susceptibility Contrast MRI
+      text: "Number of baseline volumes"
+  D02.03.18.02.00.02:
+      info: Table D.2. Acquisition Reporting | MRI acquisition | Perfusion | Dynamic Susceptibility Contrast MRI
+      text: "Type, name and manufacturer of intravenous bolus (e.g. gadobutrol, Gadavist, Bayer)"
+  D02.03.18.02.00.03:
+      info: Table D.2. Acquisition Reporting | MRI acquisition | Perfusion | Dynamic Susceptibility Contrast MRI
+      text: "Bolus amount and concentration (e.g. 0.1 ml/kg and 0.1 mmol/kg)"
+  D02.03.18.02.00.04:
+      info: Table D.2. Acquisition Reporting | MRI acquisition | Perfusion | Dynamic Susceptibility Contrast MRI
+      text: "Injection rate (e.g. 5 ml/s)"
+  D02.03.18.02.00.05:
+      info: Table D.2. Acquisition Reporting | MRI acquisition | Perfusion | Dynamic Susceptibility Contrast MRI
+      text: "Post-injection of saline (e.g. 20 ml)"
+  D02.03.18.02.00.06:
+      info: Table D.2. Acquisition Reporting | MRI acquisition | Perfusion | Dynamic Susceptibility Contrast MRI
+      text: "Injection method (e.g. power injector)"
+  D02.04.01.00.00.01:
+      info: Table D.2. Acquisition Reporting | Preliminary quality control | Motion monitoring
+      text: "For functional or diffusion acquisitions, any visual or quantitative checks for severe motion; likewise, for structural images, checks on motion or general image quality"
+  D02.04.02.00.00.01:
+      info: Table D.2. Acquisition Reporting | Preliminary quality control | Incidental findings
+      text: "Protocol for review of any incidental findings, and how they are handled in particular with respect to possible exclusion of a subject's data"
+  D03.01.00.00.00.01:
+      info: Table D.3. Preprocessing Reporting | Software
+      text: "For each software used, be sure to include version and revision number"
+  D03.02.00.00.00.01:
+      info: Table D.3. Preprocessing Reporting | Software citation
+      text: "Include URL and Research Resource Identifier for each software used"
+  D03.03.00.00.00.01:
+      info: Table D.3. Preprocessing Reporting | T1 stabilization
+      text: "Number of initial \"dummy\" scans discarded as part of preprocessing (if not already performed by scanner)"
+  D03.04.00.00.00.01:
+      info: Table D.3. Preprocessing Reporting | Brain extraction
+      text: "Name of software/method (e.g., BET, recon-all in FreeSurfer, etc.)"
+  D03.04.00.00.00.02:
+      info: Table D.3. Preprocessing Reporting | Brain extraction
+      text: "Parameter choices (e.g. BET's fractional intensity threshold)"
+  D03.04.00.00.00.03:
+      info: Table D.3. Preprocessing Reporting | Brain extraction
+      text: "Any manual editing applied to the brain masks"
+  D03.05.00.00.00.01:
+      info: Table D.3. Preprocessing Reporting | Segmentation
+      text: "For structural images, method used to extract gray, white, CSF and other tissue classes"
+  D03.06.00.00.00.01:
+      info: Table D.3. Preprocessing Reporting | Slice time correction
+      text: "Name of software/method"
+  D03.06.00.00.00.02:
+      info: Table D.3. Preprocessing Reporting | Slice time correction
+      text: "Whether performed after or before motion correction"
+  D03.06.00.00.00.03:
+      info: Table D.3. Preprocessing Reporting | Slice time correction
+      text: "Reference slice"
+  D03.06.00.00.00.04:
+      info: Table D.3. Preprocessing Reporting | Slice time correction
+      text: "Interpolation type and order (e.g., 3rd order spline or sinc)"
+  D03.07.00.00.00.01:
+      info: Table D.3. Preprocessing Reporting | Motion correction
+      text: "Name of software/method"
+  D03.07.00.00.00.02:
+      info: Table D.3. Preprocessing Reporting | Motion correction
+      text: "Use of non-ridged registration, and if so the type of transformation"
+  D03.07.00.00.00.03:
+      info: Table D.3. Preprocessing Reporting | Motion correction
+      text: "Use of motion susceptibility correction (fieldmap-based unwarping), as well as the particular software/method"
+  D03.07.00.00.00.04:
+      info: Table D.3. Preprocessing Reporting | Motion correction
+      text: "Reference scan (e.g. 1st scan or middle scan)"
+  D03.07.00.00.00.05:
+      info: Table D.3. Preprocessing Reporting | Motion correction
+      text: "Image similarity metric (e.g. normalized correlation, mutual information, etc.)"
+  D03.07.00.00.00.06:
+      info: Table D.3. Preprocessing Reporting | Motion correction
+      text: "Interpolation type (e.g., spline, sinc), and whether image transformations are combined to allow a single interpolation"
+  D03.07.00.00.00.07:
+      info: Table D.3. Preprocessing Reporting | Motion correction
+      text: "Use of any slice-to-volume registration methods, or integrated with slice time correction"
+  D03.08.00.00.00.01:
+      info: Table D.3. Preprocessing Reporting | Gradient distortion correction
+      text: "(If not already described as part of motion susceptibility correction)"
+  D03.09.00.00.00.01:
+      info: Table D.3. Preprocessing Reporting | Diffusion MRI eddy current correction
+      text: "Name of software/method, and if integrated with motion correction"
+  D03.09.00.00.00.02:
+      info: Table D.3. Preprocessing Reporting | Diffusion MRI eddy current correction
+      text: "Image similarity / cost function"
+  D03.09.00.00.00.03:
+      info: Table D.3. Preprocessing Reporting | Diffusion MRI eddy current correction
+      text: "Type of transformation (e.g. rigid body, affine) and whether constrained only along the phase encode direction"
+  D03.09.00.00.00.04:
+      info: Table D.3. Preprocessing Reporting | Diffusion MRI eddy current correction
+      text: "Note if gradient table (b-matrix) is then re-oriented"
+  D03.09.00.00.00.05:
+      info: Table D.3. Preprocessing Reporting | Diffusion MRI eddy current correction
+      text: "Volumetric change applied for eddy current along the phase-encode axis (by the Jacobian determinant)"
+  D03.10.00.00.00.01:
+      info: Table D.3. Preprocessing Reporting | Diffusion estimation
+      text: "For all methods, report Model, parameterization and number of free parameters"
+  D03.10.00.00.00.02:
+      info: Table D.3. Preprocessing Reporting | Diffusion estimation
+      text: "For all methods, report Estimation method"
+  D03.10.00.00.00.03:
+      info: Table D.3. Preprocessing Reporting | Diffusion estimation
+      text: "For all methods, report Outlier handling approach"
+  D03.10.00.00.00.04:
+      info: Table D.3. Preprocessing Reporting | Diffusion estimation
+      text: "For all methods, report Some evidence of fit quality; e.g. sample of slices of diffusion weighted data, or residual maps"
+  D03.10.01.00.00.01:
+      info: Table D.3. Preprocessing Reporting | Diffusion estimation | Tensor or Kurtosis
+      text: "For Tensor or Kurtosis: Any parameter constraints, like cylindrical symmetry"
+  D03.10.02.00.00.01:
+      info: Table D.3. Preprocessing Reporting | Diffusion estimation | Multi-compartmental models
+      text: "Compartments of the model"
+  D03.10.03.00.00.01:
+      info: Table D.3. Preprocessing Reporting | Diffusion estimation | Orientation distribution function
+      text: "Parametric (model) or nonparametric (basis function) model"
+  D03.10.03.00.00.02:
+      info: Table D.3. Preprocessing Reporting | Diffusion estimation | Orientation distribution function
+      text: "Whether orientation distribution function or fibre orientation density is reported"
+  D03.10.03.00.00.03:
+      info: Table D.3. Preprocessing Reporting | Diffusion estimation | Orientation distribution function
+      text: "For spherical deconvolution, note how the canonical fibre response function is derived (e.g. from the data themselves, or simulated data)"
+  D03.11.00.00.00.01:
+      info: Table D.3. Preprocessing Reporting | Diffusion processing
+      text: "Summary measures computed (FA, MD, AD, RD, MK, AK, RK, etc.)"
+  D03.11.00.00.00.02:
+      info: Table D.3. Preprocessing Reporting | Diffusion processing
+      text: "Whether a track based or voxel-wise method is used"
+  D03.11.00.00.00.03:
+      info: Table D.3. Preprocessing Reporting | Diffusion processing
+      text: "Threshold used to define analysis voxels"
+  D03.11.00.00.00.04:
+      info: Table D.3. Preprocessing Reporting | Diffusion processing
+      text: "Use of population reference track atlas vs. custom atlas (specify set of subjects used to create atlas)"
+  D03.11.00.00.00.05:
+      info: Table D.3. Preprocessing Reporting | Diffusion processing
+      text: "Standard deviation map (across subjects)"
+  D03.12.00.00.00.01:
+      info: Table D.3. Preprocessing Reporting | Diffusion tractography
+      text: "Name of software/method"
+  D03.12.00.00.00.02:
+      info: Table D.3. Preprocessing Reporting | Diffusion tractography
+      text: "Step size, turning angle and stopping criteria"
+  D03.12.00.00.00.03:
+      info: Table D.3. Preprocessing Reporting | Diffusion tractography
+      text: "For ROI based analysis, definition of ROIs (e.g. specify the images used to draw ROIs; manual, semi-automatic or automatic definition of ROIs)"
+  D03.12.00.00.00.04:
+      info: Table D.3. Preprocessing Reporting | Diffusion tractography
+      text: "For tracking, note step-size, turning angle, any anatomical constraints imposed, and stopping criteria"
+  D03.12.00.00.00.05:
+      info: Table D.3. Preprocessing Reporting | Diffusion tractography
+      text: "If a measure of path probability / \"connectivity\" is extracted, clearly define this measure"
+  D03.13.01.01.01.01:
+      info: Table D.3. Preprocessing Reporting | Perfusion | Arterial Spin Labeling | Modelling/post-processing scheme | Subtraction
+      text: "Specify whether simple subtraction, running, sinc-subtraction, etc."
+  D03.13.01.01.02.01:
+      info: Table D.3. Preprocessing Reporting | Perfusion | Arterial Spin Labeling | Modelling/post-processing scheme | Quantitative models
+      text: "Specify model used, number of free parameters"
+  D03.13.02.00.00.01:
+      info: Table D.3. Preprocessing Reporting | Perfusion | Dynamic Susceptibility Contrast MRI
+      text: "How concentration time curves are calculated, e.g. use of T1 corrections (if short TR) or corrections for leakage"
+  D03.13.02.00.00.02:
+      info: Table D.3. Preprocessing Reporting | Perfusion | Dynamic Susceptibility Contrast MRI
+      text: "Selection of arterial input function (e.g. manual or automatic with reference to method)"
+  D03.13.02.00.00.03:
+      info: Table D.3. Preprocessing Reporting | Perfusion | Dynamic Susceptibility Contrast MRI
+      text: "Deconvolution method (kinetic model) to estimate residue function (e.g. SVD or parametric model)"
+  D03.13.02.00.00.04:
+      info: Table D.3. Preprocessing Reporting | Perfusion | Dynamic Susceptibility Contrast MRI
+      text: "Details of parameter calculations (e.g. CBF, CBV, MTT, TTP, Tmax)"
+  D03.14.00.00.00.01:
+      info: Table D.3. Preprocessing Reporting | Function-structure (inter-subjective) coregistration
+      text: "Name of software/method"
+  D03.14.00.00.00.02:
+      info: Table D.3. Preprocessing Reporting | Function-structure (inter-subjective) coregistration
+      text: "Type of transformation (rigid, nonlinear); if nonlinear, type of transformation"
+  D03.14.00.00.00.03:
+      info: Table D.3. Preprocessing Reporting | Function-structure (inter-subjective) coregistration
+      text: "Cost function (e.g., correlation ratio, mutual information, boundary-based registration, etc.)"
+  D03.14.00.00.00.04:
+      info: Table D.3. Preprocessing Reporting | Function-structure (inter-subjective) coregistration
+      text: "Interpolation method (e.g., spline, linear)"
+  D03.14.00.00.00.05:
+      info: Table D.3. Preprocessing Reporting | Function-structure (inter-subjective) coregistration
+      text: "Note this step might not be necessary if direct T2* to a functional template registration is used"
+  D03.15.00.00.00.01:
+      info: Table D.3. Preprocessing Reporting | Distortion correction
+      text: "Use of any distortion correction due to field or gradient nonlinearity"
+  D03.16.00.00.00.01:
+      info: Table D.3. Preprocessing Reporting | Intersubject registration
+      text: "Name of software/method (e.g., FSL flirt followed by fnirt, FreeSurfer, Caret, Workbench, etc.)"
+  D03.16.00.00.00.02:
+      info: Table D.3. Preprocessing Reporting | Intersubject registration
+      text: "Whether volume and/or surface based registration is used (if not already clearly implied)"
+  D03.16.00.00.00.03:
+      info: Table D.3. Preprocessing Reporting | Intersubject registration
+      text: "Image types registered (e.g. T2* or T1)"
+  D03.16.00.00.00.04:
+      info: Table D.3. Preprocessing Reporting | Intersubject registration
+      text: "Any preprocessing to images; e.g. for T1, bias field correction, or segmentation of gray matter; for T2*, single image (specify image) or mean image"
+  D03.16.00.00.00.05:
+      info: Table D.3. Preprocessing Reporting | Intersubject registration
+      text: "Template space (e.g., MNI, Talairach, fsaverage, FS_LR), modality (e.g., T1, T2*), resolution (e.g., 2mm, fsaverage5, 32k_FS_LR), and the specific name of template image used; note the domain of the template if not whole brain, i.e. cortical surface only, cerebellum only, CIFTI 'grayordinates' (cortical surface vertices + subcortical gray matter voxels), etc."
+  D03.16.00.00.00.06:
+      info: Table D.3. Preprocessing Reporting | Intersubject registration
+      text: "Additional template transformation for reporting; e.g., if using a template in MNI space, but reporting coordinates in Talairach, clearly note and report method used (e.g., Brett's mni2tal, Lancaster's icbm_spm2tal)"
+  D03.16.00.00.00.07:
+      info: Table D.3. Preprocessing Reporting | Intersubject registration
+      text: "Choice of warp (rigid, nonlinear); if nonlinear, transformation type (e.g., B-splines, stationary velocity field, momentum, non-parametric displacement field); if a parametric transformation is used, report resolution, e.g., 10x10x10 spline control points"
+  D03.16.00.00.00.08:
+      info: Table D.3. Preprocessing Reporting | Intersubject registration
+      text: "Use of regularization, and the parameter(s) used to set degree of regularization"
+  D03.16.00.00.00.09:
+      info: Table D.3. Preprocessing Reporting | Intersubject registration
+      text: "Interpolation type (e.g., spline, linear); if projection from volume to surface space, how were voxels sampled from the volume (e.g., trilinear; nearest neighbor; ribbon-constrained specifying inner and outer surface used)."
+  D03.16.00.00.00.10:
+      info: Table D.3. Preprocessing Reporting | Intersubject registration
+      text: "Cost function (e.g., correlation ratio, mutual information, SSD)"
+  D03.16.00.00.00.11:
+      info: Table D.3. Preprocessing Reporting | Intersubject registration
+      text: "Use of cost-function masking"
+  D03.17.00.00.00.01:
+      info: Table D.3. Preprocessing Reporting | Intensity correction
+      text: "Bias field corrections for structural MRI, but also correction of odd versus even slice intensity differences attributable to interleaved EPI acquisition without gaps"
+  D03.18.00.00.00.01:
+      info: Table D.3. Preprocessing Reporting | Intensity normalization
+      text: "Scan-by-scan or run-wide scaling of image intensities before statistical modelling. E.g. SPM scales each run such that the mean image will have mean intracerebral intensity of 100; FSL scales each run such that the mean image will have an intracerebral mode of 10,000"
+  D03.19.01.00.00.01:
+      info: Table D.3. Preprocessing Reporting | Artifact and structured noise removal | Physiological noise correction method
+      text: "Name of software/method used (e.g. CompCor, ICA-FIX, ICA-AROMA, etc.)"
+  D03.19.02.01.00.01:
+      info: Table D.3. Preprocessing Reporting | Artifact and structured noise removal | Nuisance regression | Motion parameters
+      text: "Expansion basis and order (e.g. 1st temporal derivatives; Volterra kernel expansion)"
+  D03.19.02.02.00.01:
+      info: Table D.3. Preprocessing Reporting | Artifact and structured noise removal | Nuisance regression | Tissue signals
+      text: "Tissue type (e.g., whole brain, gray matter, white matter, ventricles)"
+  D03.19.02.02.00.02:
+      info: Table D.3. Preprocessing Reporting | Artifact and structured noise removal | Nuisance regression | Tissue signals
+      text: "Tissue definition (e.g., a priori seed, automatic segmentation, spatial regression)"
+  D03.19.02.02.00.03:
+      info: Table D.3. Preprocessing Reporting | Artifact and structured noise removal | Nuisance regression | Tissue signals
+      text: "Signal definition (e.g., mean of voxels, first singular vector, etc.)"
+  D03.19.02.03.00.01:
+      info: Table D.3. Preprocessing Reporting | Artifact and structured noise removal | Nuisance regression | Physiological signals
+      text: "e.g., heart rate variability, respiration"
+  D03.19.02.03.00.02:
+      info: Table D.3. Preprocessing Reporting | Artifact and structured noise removal | Nuisance regression | Physiological signals
+      text: "Modeling choices (e.g. RETROICOR, cardiac and/or respiratory response functions) and number of computed regressors"
+  D03.20.00.00.00.01:
+      info: Table D.3. Preprocessing Reporting | Volume censoring (a.k.a. \"scrubbing\" or \"de-spiking\")
+      text: "Name of software/method"
+  D03.20.00.00.00.02:
+      info: Table D.3. Preprocessing Reporting | Volume censoring (a.k.a. \"scrubbing\" or \"de-spiking\")
+      text: "Criteria (e.g., frame-by-frame displacement threshold, percentage BOLD change)"
+  D03.20.00.00.00.03:
+      info: Table D.3. Preprocessing Reporting | Volume censoring (a.k.a. \"scrubbing\" or \"de-spiking\")
+      text: "Use of censoring or interpolation; if interpolation, method used (e.g., spline, spectral estimation)"
+  D03.21.01.01.00.01:
+      info: Table D.3. Preprocessing Reporting | Resting state fMRI feature | Summary measures | ALFF, fALFF 
+      text: "Lower and upper band pass frequencies"
+  D03.21.01.02.00.01:
+      info: Table D.3. Preprocessing Reporting | Resting state fMRI feature | Summary measures | ReHo
+      text: "Neighborhood size used to compute local similarity measures (e.g. 6, 18 or 26)"
+  D03.21.01.02.00.02:
+      info: Table D.3. Preprocessing Reporting | Resting state fMRI feature | Summary measures | ReHo
+      text: "Similarity measure (e.g. Kendall's coefficient of concordance)"
+  D03.22.00.00.00.01:
+      info: Table D.3. Preprocessing Reporting | Spatial smoothing
+      text: "Name of software/method"
+  D03.22.00.00.00.02:
+      info: Table D.3. Preprocessing Reporting | Spatial smoothing
+      text: "Size and type of smoothing kernel"
+  D03.22.00.00.00.03:
+      info: Table D.3. Preprocessing Reporting | Spatial smoothing
+      text: "Filtering approach, e.g., fixed kernel or iterative smoothing until fixed FWHM"
+  D03.22.00.00.00.04:
+      info: Table D.3. Preprocessing Reporting | Spatial smoothing
+      text: "Space in which smoothing is performed (i.e. native volume, native surface, MNI volume, template surface)"
+  D03.23.00.00.00.01:
+      info: Table D.3. Preprocessing Reporting | Quality control reports
+      text: "Summaries of subject motion (e.g. mean frame-wise displacement), image variance (e.g. DVARS), and note of any other irregularities found (e.g. motion or poor SNR not sufficiently severe to warrant exclusion). Should be included with any publically shared data"
+  D04.01.01.01.00.01:
+      info: Table D.4. Statistical Modeling & Inference | Mass univariate analyses | Dependent variable | Data submitted to statistical modeling
+      text: "Report the number of time points, number of subjects; specify exclusions of time points / subjects, if not already specified in experimental design"
+  D04.01.01.02.00.01:
+      info: Table D.4. Statistical Modeling & Inference | Mass univariate analyses | Dependent variable | Spatial region modeled
+      text: "If not \"Full brain\", give a specification of an anatomically or functionally defined mask"
+  D04.01.02.01.01.01:
+      info: Table D.4. Statistical Modeling & Inference | Mass univariate analyses | Independent variables | First level fMRI | Event-related design predictors
+      text: "Modeled duration, if other than zero"
+  D04.01.02.01.01.02:
+      info: Table D.4. Statistical Modeling & Inference | Mass univariate analyses | Independent variables | First level fMRI | Event-related design predictors
+      text: "Parametric modulation"
+  D04.01.02.01.02.01:
+      info: Table D.4. Statistical Modeling & Inference | Mass univariate analyses | Independent variables | First level fMRI | Block design predictors
+      text: "Note whether baseline was explicitly modelled"
+  D04.01.02.01.03.01:
+      info: Table D.4. Statistical Modeling & Inference | Mass univariate analyses | Independent variables | First level fMRI | HRF basis
+      text: "Canonical, Canonical plus temporal derivative\", \"Canonical plus temporal and dispersion derivative\", \"Smooth basis (e.g. SPM \"informed\" or Fourier basis; FSL's FLOBS)\", or \"Finite Impulse Response model\""
+  D04.01.02.01.00.01:
+      info: Table D.4. Statistical Modeling & Inference | Mass univariate analyses | Independent variables | First level fMRI
+      text: "Drift regressors (e.g. DCT basis in SPM, with specified cut-off)"
+  D04.01.02.01.00.02:
+      info: Table D.4. Statistical Modeling & Inference | Mass univariate analyses | Independent variables | First level fMRI
+      text: "Movement regressors; specify if squares and/or temporal derivative used"
+  D04.01.02.01.00.03:
+      info: Table D.4. Statistical Modeling & Inference | Mass univariate analyses | Independent variables | First level fMRI
+      text: "Any other nuisance regressors, and whether they were entered as interactions (e.g. with a task effect in 1st level fMRI, or with group effect)"
+  D04.01.02.01.00.04:
+      info: Table D.4. Statistical Modeling & Inference | Mass univariate analyses | Independent variables | First level fMRI
+      text: "Any orthogonalization of regressors, and set of other regressors used to orthogonalize against"
+  D04.01.02.02.00.01:
+      info: Table D.4. Statistical Modeling & Inference | Mass univariate analyses | Independent variables | Second level or general group model fMRI
+      text: "Group effects (patients vs. controls)"
+  D04.01.02.02.00.02:
+      info: Table D.4. Statistical Modeling & Inference | Mass univariate analyses | Independent variables | Second level or general group model fMRI
+      text: "Clearly state whether or not covariates are split by group (i.e. fit as a group-by-covariate interaction)"
+  D04.01.02.02.00.03:
+      info: Table D.4. Statistical Modeling & Inference | Mass univariate analyses | Independent variables | Second level or general group model fMRI
+      text: "Other between subject effects (age, sex; for VBM, total GM or ICV)"
+  D04.01.02.02.01.01:
+      info: Table D.4. Statistical Modeling & Inference | Mass univariate analyses | Independent variables | Second level or general group model fMRI | For group model with repeated measures
+      text: "How condition effects are modeled (e.g. as factors, or as linear trends)"
+  D04.01.02.02.01.02:
+      info: Table D.4. Statistical Modeling & Inference | Mass univariate analyses | Independent variables | Second level or general group model fMRI | For group model with repeated measures
+      text: "Whether subject effects are modeled (i.e. as regressors, as opposed to with a covariance structure)"
+  D04.01.03.01.00.01:
+      info: Table D.4. Statistical Modeling & Inference | Mass univariate analyses | Model type | Model name
+      text: "\"Mass Univariate\", \"Multivariate\" (e.g. ICA on whole brain data), \"Mass Multivariate\" (e.g. MANOVA on diffusion or morphometry tensor data), \"Local Multivariate\" (e.g. \"searchlight\"), \"Multivariate, inter-subjective predictive\" (e.g. classify individual trials in event-related fMRI), \"Multivariate inter-subject predictive\" (e.g. classify subjects as patient vs. control), \"Representational Similarity Analysis\""
+  D04.01.04.01.00.01:
+      info: Table D.4. Statistical Modeling & Inference | Mass univariate analyses | Model settings | First level fMRI
+      text: "Drift model, if not already specified as a dependent variable (e.g. locally linear detrending of data & regressors, as in FSL)"
+  D04.01.04.01.00.02:
+      info: Table D.4. Statistical Modeling & Inference | Mass univariate analyses | Model settings | First level fMRI
+      text: "Autocorrelation model (e.g. global approximate AR(1) in SPM; locally regularized autocorrelation function in FSL)"
+  D04.01.04.02.01.01:
+      info: Table D.4. Statistical Modeling & Inference | Mass univariate analyses | Model settings | Second level fMRI | Model type
+      text: "\"Fixed effects\" (all subjects' data in one model), \"random effects\" or \"mixed effects\" "
+  D04.01.04.02.02.01:
+      info: Table D.4. Statistical Modeling & Inference | Mass univariate analyses | Model settings | Second level fMRI | Random or mixed effects
+      text: "Ordinary least squares (OLS, aka unweighted summary statistics approach; SPM default, FSL FEAT's \"Simple OLS\")"
+  D04.01.04.02.02.02:
+      info: Table D.4. Statistical Modeling & Inference | Mass univariate analyses | Model settings | Second level fMRI | Random or mixed effects
+      text: "Weighted least squares (i.e. FSL FEAT's \"FLAME 1\"), using voxel-wise estimate of between subject variance"
+  D04.01.04.02.02.03:
+      info: Table D.4. Statistical Modeling & Inference | Mass univariate analyses | Model settings | Second level fMRI | Random or mixed effects
+      text: "Global weighted least squares (i.e. SPM's MFX)"
+  D04.01.04.02.03.01:
+      info: Table D.4. Statistical Modeling & Inference | Mass univariate analyses | Model settings | Second level fMRI | Group model variance structures
+      text: "If un-equal variance between groups (and if globally pooled, as in SPM)"
+  D04.01.04.02.03.02:
+      info: Table D.4. Statistical Modeling & Inference | Mass univariate analyses | Model settings | Second level fMRI | Group model variance structures
+      text: "If repeated measures, the specific covariance structure assumed (e.g. compound symmetric, or arbitrary; if globally pooled) "
+  D04.01.04.03.00.01:
+      info: Table D.4. Statistical Modeling & Inference | Mass univariate analyses | Model settings | Local-multivariate
+      text: "The number of voxels in the local model"
+  D04.01.04.03.00.02:
+      info: Table D.4. Statistical Modeling & Inference | Mass univariate analyses | Model settings | Local-multivariate
+      text: "Local model used (e.g. Canonical Correlation Analysis) with any constraints (e.g. positive weights only)"
+  D04.01.05.01.00.01:
+      info: Table D.4. Statistical Modeling & Inference | Mass univariate analyses | Inference | Contrast/effect
+      text: "Specification of the precise effect tested, often as a linear contrast of parameters in a model. When possible, define these in terms of the task or stimulus conditions instead of psychological concepts (See Task Specification in Experimental Design Reporting)"
+  D04.01.05.01.00.02:
+      info: Table D.4. Statistical Modeling & Inference | Mass univariate analyses | Inference | Contrast/effect
+      text: "Provide tables/figures on main effects (e.g. in supplement), not just differences or interactions. For example, an inference on a difference of two fMRI conditions, A-B, doesn't indicate if both A & B induced positive changes; likewise, to fully interpret an interaction requires knowledge of the main effects"
+  D04.01.05.01.00.03:
+      info: Table D.4. Statistical Modeling & Inference | Mass univariate analyses | Inference | Contrast/effect
+      text: "Indicate any use of any omnibus ANOVA tests"
+  D04.01.05.01.00.04:
+      info: Table D.4. Statistical Modeling & Inference | Mass univariate analyses | Inference | Contrast/effect
+      text: "All contrasts explored as part of the research should be fully described in the methods section, whether or not they are considered in the results"
+  D04.01.05.01.00.05:
+      info: Table D.4. Statistical Modeling & Inference | Mass univariate analyses | Inference | Contrast/effect
+      text: "If performing a two-sided test via two one-sided tests, double the one-sided p-values to convert them into two-sided p-values. For example, if looking at both a contrast [-1 1] and [1-1] together, each with cluster-forming threshold p=0.001, double the FWE cluster p-values from each contrast to obtain two-sided inferences"
+  D04.01.05.02.00.01:
+      info: Table D.4. Statistical Modeling & Inference | Mass univariate analyses | Inference | Search region
+      text: "Whole brain or \"small volume\"; carefully describe any small volume correction used for each contrast"
+  D04.01.05.02.00.02:
+      info: Table D.4. Statistical Modeling & Inference | Mass univariate analyses | Inference | Search region
+      text: "If a small-volume correction mask is defined anatomically, provide named anatomical regions from a publicly available ROI atlas"
+  D04.01.05.02.00.03:
+      info: Table D.4. Statistical Modeling & Inference | Mass univariate analyses | Inference | Search region
+      text: "If small-volume correction mask is functionally defined, clearly describe the functional task and identify any risk of circularity"
+  D04.01.05.02.00.04:
+      info: Table D.4. Statistical Modeling & Inference | Mass univariate analyses | Inference | Search region
+      text: "All small-volume corrections should be fully described in the methods section, not just mentioned in passing in the results"
+  D04.01.05.03.00.01:
+      info: Table D.4. Statistical Modeling & Inference | Mass univariate analyses | Inference | Statistic type
+      text: "Voxel-wise (aka peak-wise in SPM), or \"cluster-wise\""
+  D04.01.05.03.01.01:
+      info: Table D.4. Statistical Modeling & Inference | Mass univariate analyses | Inference | Statistic type | Cluster-wise
+      text: "Cluster size"
+  D04.01.05.03.01.02:
+      info: Table D.4. Statistical Modeling & Inference | Mass univariate analyses | Inference | Statistic type | Cluster-wise
+      text: "Cluster mass"
+  D04.01.05.03.01.03:
+      info: Table D.4. Statistical Modeling & Inference | Mass univariate analyses | Inference | Statistic type | Cluster-wise
+      text: "Threshold-free Cluster Enhancement (TFCE)"
+  D04.01.05.03.01.04:
+      info: Table D.4. Statistical Modeling & Inference | Mass univariate analyses | Inference | Statistic type | Cluster-wise
+      text: "Cluster-forming threshold"
+  D04.01.05.03.01.05:
+      info: Table D.4. Statistical Modeling & Inference | Mass univariate analyses | Inference | Statistic type | Cluster-wise
+      text: "Neighborhood size used to form clusters (e.g. 6, 18 or 26)"
+  D04.01.05.03.02.01:
+      info: Table D.4. Statistical Modeling & Inference | Mass univariate analyses | Inference | Statistic type | TFCE
+      text: "Use of non-default TFCE parameters"
+  D04.01.05.04.00.01:
+      info: Table D.4. Statistical Modeling & Inference | Mass univariate analyses | Inference | P-value computation
+      text: "Report if anything but standard parametric inference used to obtain (uncorrected) P-values. If nonparametric method was used, report method (e.g. permutation or bootstrap) and number of permutations/samples used"
+  D04.01.05.05.00.01:
+      info: Table D.4. Statistical Modeling & Inference | Mass univariate analyses | Inference | Multiple testing correction 
+      text: "Familywise Error: \"Random Field Theory\" (typical); \"Permutation\"; \"Monte Carlo\"; \"Bonferroni\". False Discovery Rate: \"Benjamini & Hochberg FDR\" (typical); \"Positive FDR\"; \"Local FDR\"; \"Cluster-level FDR\"; \"None/Uncorrected\""
+  D04.01.05.05.01.01:
+      info: Table D.4. Statistical Modeling & Inference | Mass univariate analyses | Inference | Multiple testing correction  | Permutation or Monte Carlo
+      text: "If permutation or Monte Carlo, report the number of permutations/samples. If Monte Carlo, note the brain mask and smoothness used, and how smoothness was estimated"
+  D04.02.01.00.00.01:
+      info: Table D.4. Statistical Modeling & Inference | Functional connectivity | Confound adjustment & filtering
+      text: "Method for detecting movement artifacts, movement-related variation, and remediation (e.g. 'scrubbing', 'de-spiking', etc.)"
+  D04.02.01.00.00.02:
+      info: Table D.4. Statistical Modeling & Inference | Functional connectivity | Confound adjustment & filtering
+      text: "Use of global signal regression, exact type of global signal used and how it was computed"
+  D04.02.01.00.00.03:
+      info: Table D.4. Statistical Modeling & Inference | Functional connectivity | Confound adjustment & filtering
+      text: "Whether a high-or low-pass temporal filtering is applied to data, and at which point in the analysis pipeline. Note, any temporal regression model using filtered data should have it's regressors likewise filtered"
+  D04.02.02.00.00.01:
+      info: Table D.4. Statistical Modeling & Inference | Functional connectivity | Independent Component Analysis
+      text: "Algorithm to estimate components"
+  D04.02.02.00.00.02:
+      info: Table D.4. Statistical Modeling & Inference | Functional connectivity | Independent Component Analysis
+      text: "Number of components (if fixed), or algorithm for estimating number of components"
+  D04.02.02.00.00.03:
+      info: Table D.4. Statistical Modeling & Inference | Functional connectivity | Independent Component Analysis
+      text: "If used, method to synthesize multiple runs"
+  D04.02.02.00.00.04:
+      info: Table D.4. Statistical Modeling & Inference | Functional connectivity | Independent Component Analysis
+      text: "Sorting method of IC's, if any"
+  D04.02.02.00.00.05:
+      info: Table D.4. Statistical Modeling & Inference | Functional connectivity | Independent Component Analysis
+      text: "Detailed description of how components were chosen for further analysis"
+  D04.02.03.01.00.01:
+      info: Table D.4. Statistical Modeling & Inference | Functional connectivity | Dependent variable definition | Seed-based analyses
+      text: "Definition of the seed region(s)"
+  D04.02.03.01.00.02:
+      info: Table D.4. Statistical Modeling & Inference | Functional connectivity | Dependent variable definition | Seed-based analyses
+      text: "Rationale for choosing these regions"
+  D04.02.03.02.00.01:
+      info: Table D.4. Statistical Modeling & Inference | Functional connectivity | Dependent variable definition | Region-based analyses
+      text: "Number of ROIs"
+  D04.02.03.02.00.02:
+      info: Table D.4. Statistical Modeling & Inference | Functional connectivity | Dependent variable definition | Region-based analyses
+      text: "How the ROI's are defined (e.g. citable anatomical atlas; auxiliary fMRI experiments); note if ROIs overlap"
+  D04.02.03.02.00.03:
+      info: Table D.4. Statistical Modeling & Inference | Functional connectivity | Dependent variable definition | Region-based analyses
+      text: "Assignment of signals to regions (i.e. how a time series is obtained from each region, e.g. averaging or first singular vector)"
+  D04.02.03.02.00.04:
+      info: Table D.4. Statistical Modeling & Inference | Functional connectivity | Dependent variable definition | Region-based analyses
+      text: "Note if considering only bilateral (L+R) merged regions"
+  D04.02.03.02.00.05:
+      info: Table D.4. Statistical Modeling & Inference | Functional connectivity | Dependent variable definition | Region-based analyses
+      text: "Note if considering only inter-hemispheric homotopic connectivity"
+  D04.02.04.00.00.01:
+      info: Table D.4. Statistical Modeling & Inference | Functional connectivity | Functional connectivity measure/model
+      text: "Measure of dependence used, e.g. Pearson's (full) correlation, partial correlation, mutual information"
+  D04.02.04.00.00.02:
+      info: Table D.4. Statistical Modeling & Inference | Functional connectivity | Functional connectivity measure/model
+      text: "Use of Fisher's Z-transform (Yes/No) and, if standardised, effective N is used to compute standard error (to account for any filtering operations on the data)"
+  D04.02.04.00.00.03:
+      info: Table D.4. Statistical Modeling & Inference | Functional connectivity | Functional connectivity measure/model
+      text: "Estimator used for partial correlation"
+  D04.02.04.00.00.04:
+      info: Table D.4. Statistical Modeling & Inference | Functional connectivity | Functional connectivity measure/model
+      text: "Estimator used for mutual information"
+  D04.02.04.00.00.05:
+      info: Table D.4. Statistical Modeling & Inference | Functional connectivity | Functional connectivity measure/model
+      text: "Regression model used to remove confounding effects (Pearson or partial correlation)"
+  D04.02.05.00.00.01:
+      info: Table D.4. Statistical Modeling & Inference | Functional connectivity | Effectivity connectivity
+      text: "Model"
+  D04.02.05.00.00.02:
+      info: Table D.4. Statistical Modeling & Inference | Functional connectivity | Effectivity connectivity
+      text: "Algorithm used to fit model"
+  D04.02.05.00.00.03:
+      info: Table D.4. Statistical Modeling & Inference | Functional connectivity | Effectivity connectivity
+      text: "If per-subject model, method used to generalize inferences to population"
+  D04.02.05.00.00.04:
+      info: Table D.4. Statistical Modeling & Inference | Functional connectivity | Effectivity connectivity
+      text: "Itemize models considered, and method used for model comparison"
+  D04.02.06.00.00.01:
+      info: Table D.4. Statistical Modeling & Inference | Functional connectivity | Graph analysis
+      text: "Report the 'dependent variable' and 'functional connectivity measure' used (as Statistical Modeling & Inference > Functional Connectivity > Functional Connectivity measure / model)"
+  D04.02.06.00.00.02:
+      info: Table D.4. Statistical Modeling & Inference | Functional connectivity | Graph analysis
+      text: "Weighted graph analysis or Binarized graph analysis is used, clarifying the method used for thresholding (e.g. a 10% density threshold, or a statistically-defined threshold); consider the sensitivity of your findings to the particular choice of threshold used"
+  D04.02.06.00.00.03:
+      info: Table D.4. Statistical Modeling & Inference | Functional connectivity | Graph analysis
+      text: "Itemise the graph summaries used (e.g. clustering coefficient, efficiency, etc.), whether these are global or per-node/per-edge summaries. In particular with fMRI or EEG, clarify if measures applied to individual subject networks or group networks"
+  D04.03.01.00.00.01:
+      info: Table D.4. Statistical Modeling & Inference | Multivariate modelling & predictive analysis | Independent variables
+      text: "Variable type (discrete or continuous)"
+  D04.03.01.00.00.02:
+      info: Table D.4. Statistical Modeling & Inference | Multivariate modelling & predictive analysis | Independent variables
+      text: "Class proportions in classification settings"
+  D04.03.01.01.00.01:
+      info: Table D.4. Statistical Modeling & Inference | Multivariate modelling & predictive analysis | Independent variables | Variable dimension
+      text: "For whole-brain prediction, this is a voxel count"
+  D04.03.01.01.00.02:
+      info: Table D.4. Statistical Modeling & Inference | Multivariate modelling & predictive analysis | Independent variables | Variable dimension
+      text: "For searchlight analyses, the exact number of voxels in the search region, not just a radius"
+  D04.03.01.01.00.03:
+      info: Table D.4. Statistical Modeling & Inference | Multivariate modelling & predictive analysis | Independent variables | Variable dimension
+      text: "Provide dimension before and after any feature selection and/or dimension reduction"
+  D04.03.01.02.00.01:
+      info: Table D.4. Statistical Modeling & Inference | Multivariate modelling & predictive analysis | Independent variables | Population stratification
+      text: "Information on how the target values relate to the population (e.g. male/female frequency or age distribution by group) "
+  D04.03.01.02.00.02:
+      info: Table D.4. Statistical Modeling & Inference | Multivariate modelling & predictive analysis | Independent variables | Population stratification
+      text: "Specify how this is taken into account in the predictive model"
+  D04.03.02.00.00.01:
+      info: Table D.4. Statistical Modeling & Inference | Multivariate modelling & predictive analysis | Features extraction and dimension reduction
+      text: "Feature transformation"
+  D04.03.02.00.00.02:
+      info: Table D.4. Statistical Modeling & Inference | Multivariate modelling & predictive analysis | Features extraction and dimension reduction
+      text: "Feature selection"
+  D04.03.02.00.00.03:
+      info: Table D.4. Statistical Modeling & Inference | Multivariate modelling & predictive analysis | Features extraction and dimension reduction
+      text: "Dimension reduction"
+  D04.03.02.00.00.04:
+      info: Table D.4. Statistical Modeling & Inference | Multivariate modelling & predictive analysis | Features extraction and dimension reduction
+      text: "When these techniques are data-driven, specify the procedures used to learn the parameters involved"
+  D04.03.03.01.00.01:
+      info: Table D.4. Statistical Modeling & Inference | Multivariate modelling & predictive analysis | Model | Traditional multivariate analyses
+      text: "Type of model, e.g. MANOVA"
+  D04.03.03.01.00.02:
+      info: Table D.4. Statistical Modeling & Inference | Multivariate modelling & predictive analysis | Model | Traditional multivariate analyses
+      text: "Assumptions made on the covariance structure, e.g. independence, or a common arbitrary covariance between groups"
+  D04.03.03.01.00.03:
+      info: Table D.4. Statistical Modeling & Inference | Multivariate modelling & predictive analysis | Model | Traditional multivariate analyses
+      text: "Statistic used to assess significance, e.g. Wilk's lambda, Hotelling-Lawley trace, etc."
+  D04.03.03.02.00.01:
+      info: Table D.4. Statistical Modeling & Inference | Multivariate modelling & predictive analysis | Model | Predictive models
+      text: "Type of model, e.g. Linear discriminant analysis, support vector machines, logistic regression, etc."
+  D04.03.03.02.00.02:
+      info: Table D.4. Statistical Modeling & Inference | Multivariate modelling & predictive analysis | Model | Predictive models
+      text: "For kernel-based methods (i.e. SVM) report type of kernel used, type and number of parameters needed to be estimated"
+  D04.03.04.00.00.01:
+      info: Table D.4. Statistical Modeling & Inference | Multivariate modelling & predictive analysis | Learning method
+      text: "Figure-of-merit optimised"
+  D04.03.04.00.00.02:
+      info: Table D.4. Statistical Modeling & Inference | Multivariate modelling & predictive analysis | Learning method
+      text: "Fitting method"
+  D04.03.04.00.00.03:
+      info: Table D.4. Statistical Modeling & Inference | Multivariate modelling & predictive analysis | Learning method
+      text: "Parameter settings, those fixed and those estimated; specify how fixed parameter values were chosen"
+  D04.03.04.00.00.04:
+      info: Table D.4. Statistical Modeling & Inference | Multivariate modelling & predictive analysis | Learning method
+      text: "How the convergence of the learning method is monitored"
+  D04.03.05.00.00.01:
+      info: Table D.4. Statistical Modeling & Inference | Multivariate modelling & predictive analysis | Training procedure
+      text: "Pipeline structure applied uniformly to all cases (e.g. that could be independently applied to a new case)"
+  D04.03.05.00.00.02:
+      info: Table D.4. Statistical Modeling & Inference | Multivariate modelling & predictive analysis | Training procedure
+      text: "Method for hyper-parameter setting"
+  D04.03.05.00.00.03:
+      info: Table D.4. Statistical Modeling & Inference | Multivariate modelling & predictive analysis | Training procedure
+      text: "Data splitting (cross validation)"
+  D04.03.06.01.01.01:
+      info: Table D.4. Statistical Modeling & Inference | Multivariate modelling & predictive analysis | Evaluation metrics | Discrete response | Always describe
+      text: "Accuracy"
+  D04.03.06.01.01.02:
+      info: Table D.4. Statistical Modeling & Inference | Multivariate modelling & predictive analysis | Evaluation metrics | Discrete response | Always describe
+      text: "If group sizes unequal, balanced (or average) accuracy"
+  D04.03.06.01.02.01:
+      info: Table D.4. Statistical Modeling & Inference | Multivariate modelling & predictive analysis | Evaluation metrics | Discrete response | When there are only 2 classes, and one can be labeled \"positive\"
+      text: "Precision (1- false discovery rate)"
+  D04.03.06.01.02.02:
+      info: Table D.4. Statistical Modeling & Inference | Multivariate modelling & predictive analysis | Evaluation metrics | Discrete response | When there are only 2 classes, and one can be labeled \"positive\"
+      text: "Recall (sensitivity)"
+  D04.03.06.01.02.03:
+      info: Table D.4. Statistical Modeling & Inference | Multivariate modelling & predictive analysis | Evaluation metrics | Discrete response | When there are only 2 classes, and one can be labeled \"positive\"
+      text: "False positive rate (1-specificity)"
+  D04.03.06.01.02.04:
+      info: Table D.4. Statistical Modeling & Inference | Multivariate modelling & predictive analysis | Evaluation metrics | Discrete response | When there are only 2 classes, and one can be labeled \"positive\"
+      text: "F1 (incorporates both precision and recall)"
+  D04.03.06.01.02.05:
+      info: Table D.4. Statistical Modeling & Inference | Multivariate modelling & predictive analysis | Evaluation metrics | Discrete response | When there are only 2 classes, and one can be labeled \"positive\"
+      text: "Receiver operating characteristic (ROC) curves, e.g. summarised by area under the curve (AUC); AUC for only high specificity (e.g. false positive rates no greater than 10%) are also useful"
+  D04.03.06.01.03.01:
+      info: Table D.4. Statistical Modeling & Inference | Multivariate modelling & predictive analysis | Evaluation metrics | Discrete response | When there are 3 or more classes
+      text: "Report the confusion matrix"
+  D04.03.06.02.00.01:
+      info: Table D.4. Statistical Modeling & Inference | Multivariate modelling & predictive analysis | Evaluation metrics | Continuous response
+      text: "\"Prediction R^2\", the percentage of variance explained by prediction, computed as one minus the ratio of prediction sum-of-squares to total sum-of-squares. (Note this is not the squared correlation coefficient between true and predicted values)"
+  D04.03.06.03.00.01:
+      info: Table D.4. Statistical Modeling & Inference | Multivariate modelling & predictive analysis | Evaluation metrics | Representational similarity analysis
+      text: "Report the Kendall Tau statistic for each candidate model considered"
+  D04.03.06.04.00.01:
+      info: Table D.4. Statistical Modeling & Inference | Multivariate modelling & predictive analysis | Evaluation metrics | Significance
+      text: "When possible use formal test to obtain P-value to assess whether evaluation metric is \"significant\" or consistent with noise"
+  D04.03.07.00.00.01:
+      info: Table D.4. Statistical Modeling & Inference | Multivariate modelling & predictive analysis | Fit interpretation
+      text: "Procedure used to interpret the fit of the classifier, identifying the relative importance of the features (e.g. the weight vector in linear discriminant)"
+  D05.01.01.00.00.01:
+      info: Table D.5. Results Reporting | Mass univariate analysis | Effects tested
+      text: "Provide a complete list of tested and omitted effects"
+  D05.01.02.00.00.01:
+      info: Table D.5. Results Reporting | Mass univariate analysis | Extracted data
+      text: "Define how voxels/elements were selected; if region is based on the same data, clarify how circularity was accounted for"
+  D05.01.02.00.00.02:
+      info: Table D.5. Results Reporting | Mass univariate analysis | Extracted data
+      text: "For any summary reported, give units. Ideally these are as interpretable as possible (e.g. percent change)"
+  D05.01.02.00.00.03:
+      info: Table D.5. Results Reporting | Mass univariate analysis | Extracted data
+      text: "If reporting R^2 (coefficient of determination) clarify how nuisance variability is considered. For instance, in task fMRI the vast majority of variance is explained by slow temporal drift, and R^2 values for an effect of interest will be vastly different if computed with or without counting drift in the total variance"
+  D05.01.02.00.00.04:
+      info: Table D.5. Results Reporting | Mass univariate analysis | Extracted data
+      text: "State whether data extracted from an ROI (e.g. to compute an effect size) is defined based on independent data, as otherwise it is susceptible to bias"
+  D05.01.02.00.00.05:
+      info: Table D.5. Results Reporting | Mass univariate analysis | Extracted data
+      text: "If ROIs are circularly defined, best not to provide any statistical summary (i.e. p-values, R^2, etc.)"
+  D05.01.03.00.00.01:
+      info: Table D.5. Results Reporting | Mass univariate analysis | Tables of coordinates (one table)
+      text: "Contrast / effect to which it refers"
+  D05.01.03.00.00.02:
+      info: Table D.5. Results Reporting | Mass univariate analysis | Tables of coordinates (one table)
+      text: "XYZ coordinate (with coordinate system, MNI, Talairach, noted in caption; also clarify whether peak or center-of-mass location)"
+  D05.01.03.00.00.03:
+      info: Table D.5. Results Reporting | Mass univariate analysis | Tables of coordinates (one table)
+      text: "Anatomical region (in caption or body text, describe source of labels, e.g. subjective, atlas, etc.)"
+  D05.01.03.00.00.04:
+      info: Table D.5. Results Reporting | Mass univariate analysis | Tables of coordinates (one table)
+      text: "P-value forming basis of inference (e.g. voxel-wise FWE corrected P; or cluster-wise FDR corrected P)"
+  D05.01.03.00.00.05:
+      info: Table D.5. Results Reporting | Mass univariate analysis | Tables of coordinates (one table)
+      text: "T/Z/F statistic (with degrees of freedom in table caption)"
+  D05.01.03.00.00.06:
+      info: Table D.5. Results Reporting | Mass univariate analysis | Tables of coordinates (one table)
+      text: "In caption, state whether coordinates are from whole brain, or from a specific constrained volume"
+  D05.01.03.00.00.07:
+      info: Table D.5. Results Reporting | Mass univariate analysis | Tables of coordinates (one table)
+      text: "If cluster-wise inference is used, the cluster size. Report in mm3 or, if in voxels, be explicit about the size of voxels. If a cluster statistic other than size is used (e.g. mass) it should be listed as well"
+  D05.01.03.00.00.08:
+      info: Table D.5. Results Reporting | Mass univariate analysis | Tables of coordinates (one table)
+      text: "In caption or body text, note criterion for peak per cluster reporting; e.g. \"one peak per cluster listed\", or \"up to 3 per cluster that are at least 8mm apart\" (SPM default), etc."
+  D05.01.04.00.00.01:
+      info: Table D.5. Results Reporting | Mass univariate analysis | Thresholded maps (images for significant regions of each effect, ensuring that each caption describes)
+      text: "Type of inference and the correction method, as well as form of any sub-volume corrections applied when computing corrected significance"
+  D05.01.04.00.00.02:
+      info: Table D.5. Results Reporting | Mass univariate analysis | Thresholded maps (images for significant regions of each effect, ensuring that each caption describes)
+      text: "Include color bars; when presenting multiple maps in a figure, use a common color bar to ensure the results are comparable"
+  D05.01.05.00.00.01:
+      info: Table D.5. Results Reporting | Mass univariate analysis | Unthresholded maps (Share via supplementary material or repository)
+      text: "Unthresholded statistic maps"
+  D05.01.05.00.00.02:
+      info: Table D.5. Results Reporting | Mass univariate analysis | Unthresholded maps (Share via supplementary material or repository)
+      text: "Optionally, the thresholded statistic maps"
+  D05.01.05.00.00.03:
+      info: Table D.5. Results Reporting | Mass univariate analysis | Unthresholded maps (Share via supplementary material or repository)
+      text: "Optionally, the effect size map (e.g. % BOLD change, % GM change)"
+  D05.01.06.00.00.01:
+      info: Table D.5. Results Reporting | Mass univariate analysis | Spatial features
+      text: "Size of the analysis volume in voxels, mm"
+  D05.01.06.00.00.02:
+      info: Table D.5. Results Reporting | Mass univariate analysis | Spatial features
+      text: "Spatial smoothness of noise (e.g. FWHM) and Resel count (if using Random Field Theory)"
+  D05.02.01.00.00.01:
+      info: Table D.5. Results Reporting | Functional connectivity | ICA analyses
+      text: "Report the total number of components (especially when estimated from the data and not fixed). Report the number of these analyzed and the reason for their selection"
+  D05.02.02.00.00.01:
+      info: Table D.5. Results Reporting | Functional connectivity | Graph analyses
+      text: "For graph-based methods, carefully state what is the null hypothesis of the test and how the statistic distribution under the null is computed"
+  D05.03.01.00.00.01:
+      info: Table D.5. Results Reporting | Multivariate modelling & predictive analysis | Optimised evaluation metrics
+      text: "Report the values obtained for the evaluation metrics chosen (see Evaluation Metrics, above), as well as any P-values to justify above-chance performance"
+  D06.01.01.00.00.01:
+      info: Table D.6. Data Sharing | Reporting a data sharing resource | Material shared
+      text: "List types of images and non-imaging data provided"
+  D06.01.01.00.00.02:
+      info: Table D.6. Data Sharing | Reporting a data sharing resource | Material shared
+      text: "Report on the completeness of the data (e.g., number of subjects where all types of imaging, demographic, and behavioral data is available)"
+  D06.01.02.00.00.01:
+      info: Table D.6. Data Sharing | Reporting a data sharing resource | URL, access information
+      text: "Stable URL or DOI"
+  D06.01.02.00.00.02:
+      info: Table D.6. Data Sharing | Reporting a data sharing resource | URL, access information
+      text: "Specific instructions on how to gain access. Specifically mention whether application must be vetted for particular intended research use (e.g. to preclude multiple users investigating the same question), or whether a research collaboration must be established"
+  D06.01.02.00.00.03:
+      info: Table D.6. Data Sharing | Reporting a data sharing resource | URL, access information
+      text: "Cost of access"
+  D06.01.03.00.00.01:
+      info: Table D.6. Data Sharing | Reporting a data sharing resource | Ethics compliance
+      text: "Confirm that the ethics board of the host institution generating the data approves the sharing of the data made available"
+  D06.01.03.00.00.02:
+      info: Table D.6. Data Sharing | Reporting a data sharing resource | Ethics compliance
+      text: "Clarify any constraints on uses of shared data, for example, whether users downloading the data also need ethics approval from their own institution"
+  D06.01.04.00.00.01:
+      info: Table D.6. Data Sharing | Reporting a data sharing resource | Documentation
+      text: "Provide URL to documentation, and specify its scope (e.g. worked examples, white papers, etc.)"
+  D06.01.05.00.00.01:
+      info: Table D.6. Data Sharing | Reporting a data sharing resource | Data format
+      text: "Report the format of the image data shared, e.g. DICOM, MINC, NIFTI, etc."
+  D06.01.06.00.00.01:
+      info: Table D.6. Data Sharing | Reporting a data sharing resource | Ontologies
+      text: "Data organization structures, including Data Dictionaries and Schemas. Is the software using an established ontology?"
+  D06.01.07.00.00.01:
+      info: Table D.6. Data Sharing | Reporting a data sharing resource | Visualization
+      text: "Availability of in-resource visualization of the imaging or non-imaging data"
+  D06.01.08.00.00.01:
+      info: Table D.6. Data Sharing | Reporting a data sharing resource | De-identification
+      text: "How, if at all, data are de-identified"
+  D06.01.09.00.00.01:
+      info: Table D.6. Data Sharing | Reporting a data sharing resource | Provenance and history
+      text: "Availability of detailed provenance of preprocessing and analysis of shared data"
+  D06.01.10.00.00.01:
+      info: Table D.6. Data Sharing | Reporting a data sharing resource | Interoperability
+      text: "Ability of a repository to work in a multi-database environment, availability of API's and ability to connect to analysis pipelines"
+  D06.01.11.00.00.01:
+      info: Table D.6. Data Sharing | Reporting a data sharing resource | Querying
+      text: "Mechanisms available for constructing queries on the repository (e.g. SQL, SPARQL)"
+  D06.01.12.00.00.01:
+      info: Table D.6. Data Sharing | Reporting a data sharing resource | Versioning
+      text: "How users can check version of downloaded data and compare it to the current version at a later time"
+  D07.01.13.00.00.01:
+      info: Table D.7. Reproducibility | Documentation | Tools used
+      text: "Tool names, versions, and URLs"
+  D07.01.14.00.00.01:
+      info: Table D.7. Reproducibility | Documentation | Infrastructure
+      text: "Machine CPU model, operating system version, any use of parallelization"
+  D07.01.15.00.00.01:
+      info: Table D.7. Reproducibility | Documentation | Workflow
+      text: "Use of a workflow system, its version and URL"
+  D07.01.16.00.00.01:
+      info: Table D.7. Reproducibility | Documentation | Provenance trace
+      text: "State whether detailed provenance information is available"
+  D07.01.17.00.00.01:
+      info: Table D.7. Reproducibility | Documentation | Literate program implementing results
+      text: "Provide a URL linking to the relevant resource; for example, an ipython notebook implementing key analyses"
+  D07.01.18.00.00.01:
+      info: Table D.7. Reproducibility | Documentation | English language version
+      text: "As the scientific lingua franca, documentation should be provided in English in addition to any other languages"
+  D07.02.01.00.00.01:
+      info: Table D.7. Reproducibility | Archiving | Tools availability
+      text: "Note if tools are publically available"
+  D07.02.02.00.00.01:
+      info: Table D.7. Reproducibility | Archiving | Virtual appliances
+      text: "Note if a virtual environment to facilitate a repeated analysis is available"
+  D07.03.01.00.00.01:
+      info: Table D.7. Reproducibility | Data | Data
+      text: "Provide permanent identifier if possible"
+  D07.04.01.00.00.01:
+      info: Table D.7. Reproducibility | Workflow | Workflow
+      text: "Provide permanent identifier if possible"
