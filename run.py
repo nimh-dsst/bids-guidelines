@@ -5,6 +5,7 @@
 import argparse
 import inspect
 import tomllib
+import yaml
 
 from bids import BIDSLayout
 from guidelines.guidelines import cobidas
@@ -50,7 +51,7 @@ def main():
     args = cli()
     # bids_dir = args.bids_directory
     # for bids_dir in sorted(Path("/data/openneuro/20250530_openneuro_clone").glob("ds004869/")):
-    for bids_dir in sorted(Path("/data/openneuro/20250530_openneuro_clone").glob("ds000*/")):
+    for bids_dir in sorted(Path("/data/openneuro/20250530_openneuro_clone").glob("ds*/")):
     # for bids_dir in Path("C:\\Users\\earlea\\OneDrive - National Institutes of Health\\Desktop\\repo\\bids-examples").glob("*/"):
 
         if bids_dir.name.startswith('.') or bids_dir.name.startswith('docs') or bids_dir.name.startswith('tools'):
@@ -63,11 +64,18 @@ def main():
             raise ValueError(f"Error: The specified path '{bids_dir}' is not a directory.")
 
         print(f"Using {args.guidelines} guidelines to check BIDS dataset: {bids_dir}")
-        layout = BIDSLayout(bids_dir, derivatives=False)
+        try:
+            layout = BIDSLayout(bids_dir, derivatives=False)
+        except Exception as e:
+            print(f"Error initializing BIDSLayout. Skipping '{bids_dir}':\n{e}")
+            continue
 
         if args.guidelines == 'COBIDAS':
             # Initialize the cobidas class with the BIDS layout
             checker = cobidas(layout)
+            guidelines_content = yaml.safe_load(
+                (Path(__file__).parent / 'guidelines/cobidas.yaml').read_text(encoding='utf-8')
+            )
 
         elif args.guidelines == 'CLAIM':
             raise ValueError("CLAIM guidelines are not yet implemented.")
@@ -85,22 +93,24 @@ def main():
             if name.startswith('_'):
                 continue
 
+            index = func.__name__.replace('_', '.')
+
             try:
                 result = func()
                 if result['status'] == 'not applicable':
-                    print(f"{name}: Not Applicable")
+                    continue
                 else:
                     guidelines_score += result['success_rate']
                     guidelines_evaluated += 1.0
 
-                    print(f"{name}: {result['tally']}/{result['total']} ({percent_string(result['success_rate'])})")
+                    print(f"{index}:\t{result['tally']}/{result['total']}\t({percent_string(result['success_rate'])})\t{guidelines_content['guidelines'][index]['info']}")
 
             except Exception as e:
                 print(f"Error running check {name}: {e}")
 
         # all done!
         score = percent_string( guidelines_score / guidelines_evaluated ) if guidelines_evaluated > 0 else "Not Applicable"
-        print(f"Able to use {int(guidelines_evaluated)} {args.guidelines} guidelines to check dataset: SCORE = {score}\n")
+        print(f"Checked {bids_dir.name} dataset with {int(guidelines_evaluated)} applicable {args.guidelines} guidelines: SCORE = {score}\n")
 
 if __name__ == "__main__":
     main()
